@@ -1,1 +1,3 @@
 # interactive_stock_chart
+
+これはGAFAMの株価を表示するインタラクティブなチャートです。
